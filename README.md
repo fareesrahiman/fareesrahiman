@@ -26,11 +26,11 @@
   <!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareesrahiman&layout=compact&langs_count=8&theme=tokyonight"/-->
 </div>
 
-## 🔥 Streak Stats
+<!-- ## 🔥 Streak Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=fareesrahiman&theme=tokyonight" alt="GitHub Streak" />
-</div>
+</div-->
 
 ## 📈 Contribution Graph
 
