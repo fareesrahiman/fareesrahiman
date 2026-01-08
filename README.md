@@ -8,7 +8,7 @@
 - 🌱 I'm learning **Real-time voice & multimodal AI agents**
 - 👯 I'm looking to collaborate on **Open source projects**
 - 💬 Ask me about **Python, AI, Machine Learning**
-- 📫 How to reach me: **farees.rahiman@journee.live**
+- 📫 How to reach me: **faristhadathil@gmail.com**
 - ⚡ Fun fact: I love building things that make a difference!
 
 ## 🛠️ Tech Stack
